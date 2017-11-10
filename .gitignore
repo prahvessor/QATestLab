@@ -1,0 +1,11 @@
+# Intellij IDEA folder shop/.idea
+shop/.idea
+
+# folder shop/target
+shop/target
+
+# Intellij IDEA file shop/shop.iml
+shop/shop.iml
+
+# *.xlsx
+*.xlsx
